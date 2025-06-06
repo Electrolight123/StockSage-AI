@@ -8,7 +8,8 @@ Whether you're a seasoned investor or a curious learner, StockSage-AI provides y
 
 ## 🧠 Features
 
-- 📌 **Natural Language Query Interface**  
+- 📌 **Natural Language Query Interface**
+  
   Ask questions like _“Is Apple a safe long-term bet for a risk-averse investor?”_ and get a complete markdown-based report tailored to your query.
 
 - 🧑‍💼 **Modular LLM Agents (via CrewAI)**  
@@ -17,7 +18,8 @@ Whether you're a seasoned investor or a curious learner, StockSage-AI provides y
   - 📰 News Analyst  
   - ✍️ Report Writer  
 
-- 📉 **Real-Time Data Retrieval**  
+- 📉 **Real-Time Data Retrieval**
+  
   Using `yFinance` for up-to-date financial, technical, and news data.
 
 - 🔍 **Multi-Dimensional Stock Analysis**  
@@ -26,7 +28,8 @@ Whether you're a seasoned investor or a curious learner, StockSage-AI provides y
   - ✔️ Risk evaluation (Volatility, Beta, Sharpe, Sortino)  
   - ✔️ News sentiment breakdown  
 
-- 🧾 **Auto-Generated Investment Reports**  
+- 🧾 **Auto-Generated Investment Reports**
+  
   Reports are structured with executive summaries, analysis focus, investment recommendations, and key takeaways—tailored to user intent and expertise.
 
 ---
