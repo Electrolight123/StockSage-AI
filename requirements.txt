@@ -1,0 +1,7 @@
+streamlit
+crewai
+crewai_tools
+yfinance
+pandas
+numpy
+
