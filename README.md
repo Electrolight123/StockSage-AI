@@ -120,14 +120,5 @@ Clear Buy / Hold / Sell based on data and sentiment.
 
 ---
 
-## 💡 Future Work
-
-- Sentiment scoring with NLP
-- Comparison of multiple stocks side-by-side
-- Real-time alert system
-- Portfolio integration
-
----
-
 ## 📝 License
 This project is licensed under the **MIT License**.
