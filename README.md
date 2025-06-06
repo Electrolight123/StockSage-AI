@@ -36,7 +36,7 @@ Whether you're a seasoned investor or a curious learner, StockSage-AI provides y
 
 ## 🖥️ UI Preview
 
-![UI Mockup](assets/screenshot.png)
+![UI Mockup](assets/Screenshot.png)
 
 ---
 
